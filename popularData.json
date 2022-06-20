@@ -63,5 +63,3 @@ const popularData = [
     size:'39-43',
   }
 ];
-
-export default popularData;
